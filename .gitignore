@@ -8,3 +8,4 @@ TODOs.md
 .vscode
 dist
 /private-config.js
+deploy.sh
