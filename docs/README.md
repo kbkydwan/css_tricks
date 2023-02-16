@@ -14,7 +14,7 @@
 
 ## 快速开始
 
-- Clone the `https://github.com/QiShaoXuan/css_tricks.git`
+- Clone the `https://github.com/kbkydwan/css_tricks.git`
 - Install package `npm install`
 - Development run `npm run docs:dev`
 - Open `http://localhost:8080` in your browser.
@@ -34,9 +34,9 @@
 
 ## JS Tricks
 
-<a href="https://qishaoxuan.github.io/js_tricks/" target="_blank">view online</a>
+<a href="https://kbkydwan.github.io/js_tricks/" target="_blank">view online</a>
 
 ## 关于猫
 
-- <a href="https://github.com/QiShaoXuan/vuepress-plugin-cat" target="_blank">vuepress-plugin-cat</a>
-- <a href="https://github.com/QiShaoXuan/live2DModel">live2d model</a>
+- <a href="https://github.com/kbkydwan/vuepress-plugin-cat" target="_blank">vuepress-plugin-cat</a>
+- <a href="https://github.com/kbkydwan/live2DModel">live2d model</a>

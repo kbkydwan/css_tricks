@@ -68,7 +68,7 @@ export default {
 ## JS 实现
 
 :::tip
-`parabola.js` 函数取自 <a href="https://github.com/QiShaoXuan/parabola">https://github.com/QiShaoXuan/parabola</a>，这里是使用示例
+`parabola.js` 函数取自 <a href="https://github.com/kbkydwan/parabola">https://github.com/kbkydwan/parabola</a>，这里是使用示例
 :::
 
 <parabola-parabolaJs/>

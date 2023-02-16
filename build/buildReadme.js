@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const CONFIG = require("../docs/.vuepress/config");
-const linkHead = "https://qishaoxuan.github.io/css_tricks";
+const linkHead = "https://kbkydwan.github.io/css_tricks";
 //
 buildZh();
 buildEn();
@@ -27,7 +27,7 @@ function buildZh() {
 
     data = data.replace(
       '<div style="display:none" id="local-en"></div>',
-      `<a href='https://github.com/QiShaoXuan/css_tricks/blob/master/README_en.md'>English</a>`
+      `<a href='https://github.com/kbkydwan/css_tricks/blob/master/README_en.md'>English</a>`
     );
 
     fs.writeFile(outputPath, data, err => {
@@ -57,7 +57,7 @@ function buildEn() {
 
     data = data.replace(
       '<div style="display:none" id="local-zh"></div>',
-      `<a href='https://github.com/QiShaoXuan/css_tricks/'>中文</a>`
+      `<a href='https://github.com/kbkydwan/css_tricks/'>中文</a>`
     );
 
     data = data.replace('<div style="display:none" id="list-en"></div>', str);

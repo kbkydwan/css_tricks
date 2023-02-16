@@ -1,7 +1,7 @@
 ## css_tricks
 
 感谢QiShaoXuan的开源，本库仅用于自己学习收纳。原链接如下
-- <a href="https://github.com/QiShaoXuan/css_tricks" target="_blank">QiShaoXuan/css_tricks</a>
+- <a href="https://github.com/kbkydwan/css_tricks" target="_blank">QiShaoXuan/css_tricks</a>
 ## 关于
 
 - 总结一些常用的 CSS 样式

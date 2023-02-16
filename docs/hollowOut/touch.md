@@ -7,7 +7,7 @@
 
 一共需要三步：
 
-1. 打开<a href="https://qishaoxuan.github.io/css_tricks/hollowOut/">这个网址</a>（浏览器输入 https://qishaoxuan.github.io/css_tricks/hollowOut/）
+1. 打开<a href="https://kbkydwan.github.io/css_tricks/hollowOut/">这个网址</a>（浏览器输入 https://kbkydwan.github.io/css_tricks/hollowOut/）
 2. 找到需要的样式
 3. 复制粘贴
 

@@ -12,7 +12,7 @@
 
 <template>
   <div class="long-text-container">
-    <span>https://qishaoxuan.github.io/css_tricks/longText</span>
+    <span>https://kbkydwan.github.io/css_tricks/longText</span>
   </div>
 </template>
 

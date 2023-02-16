@@ -45,7 +45,7 @@ module.exports = {
       }
     ]
   ],
-  repo: "https://github.com/QiShaoXuan/css_tricks",
+  repo: "https://github.com/kbkydwan/css_tricks",
   locales: {
     "/": {
       lang: "zh-CN",
@@ -66,15 +66,15 @@ module.exports = {
     nav: [
       {
         text: "js tricks",
-        link: "https://qishaoxuan.github.io/js_tricks/"
+        link: "https://kbkydwan.github.io/js_tricks/"
       },
       {
         text: "blog",
-        link: "https://qishaoxuan.github.io/blog/"
+        link: "https://kbkydwan.github.io/blog/"
       },
       {
         text: "GitHub",
-        link: "https://github.com/QiShaoXuan/css_tricks"
+        link: "https://github.com/kbkydwan/css_tricks"
       }
     ],
     locales: {
